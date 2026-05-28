@@ -7,6 +7,9 @@
 **Dataset:** [Churn Modelling – Kaggle](https://www.kaggle.com/shrutimechlearn/churn-modelling)
 
 ---
+## AI Usage Statement
+
+AI tools were utilized in this project strictly for supplementary purposes, including initial draft code generation, Jupyter Notebook formatting, and presentation outline structuring. The core methodology, analytical logic, and primary codebase were independently conceived, verified, and executed by the human project members.
 
 ## Project Overview
 
